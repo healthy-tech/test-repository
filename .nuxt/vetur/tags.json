@@ -14,14 +14,14 @@
   "DioDnsSecurityTxtTable": {
     "description": "Auto imported from components/DioDnsSecurityTxtTable/DioDnsSecurityTxtTable.vue"
   },
-  "DioLink": {
-    "description": "Auto imported from components/DioLink/DioLink.vue"
-  },
   "DioField": {
     "description": "Auto imported from components/DioField/DioField.vue"
   },
   "DioFieldGroup": {
     "description": "Auto imported from components/DioField/DioFieldGroup.vue"
+  },
+  "DioLink": {
+    "description": "Auto imported from components/DioLink/DioLink.vue"
   },
   "DioProgressStep": {
     "description": "Auto imported from components/DioProgressStep/ProgressStep.vue"

@@ -2,73 +2,73 @@
   {
     "name": "policymaker___en",
     "path": "/policymaker",
-    "component": "/Users/matthewzhou/test/policymaker/pages/policymaker/index.vue",
+    "component": "/Users/matthewzhou/sanity/test-repository/pages/policymaker/index.vue",
     "chunkName": "pages/policymaker/index",
-    "_name": "_a7811506"
+    "_name": "_773cd10c"
   },
   {
     "name": "policymaker-download___en",
     "path": "/policymaker/download",
-    "component": "/Users/matthewzhou/test/policymaker/pages/policymaker/download.vue",
+    "component": "/Users/matthewzhou/sanity/test-repository/pages/policymaker/download.vue",
     "chunkName": "pages/policymaker/download",
     "children": [
       {
         "name": "policymaker-download-dnssecuritytxt___en",
         "path": "dnssecuritytxt",
-        "component": "/Users/matthewzhou/test/policymaker/pages/policymaker/download/dnssecuritytxt.vue",
+        "component": "/Users/matthewzhou/sanity/test-repository/pages/policymaker/download/dnssecuritytxt.vue",
         "chunkName": "pages/policymaker/download/dnssecuritytxt",
-        "_name": "_0b11e2b9"
+        "_name": "_63bb1888"
       },
       {
         "name": "policymaker-download-safe-harbor-clause___en",
         "path": "safe-harbor-clause",
-        "component": "/Users/matthewzhou/test/policymaker/pages/policymaker/download/safe-harbor-clause.vue",
+        "component": "/Users/matthewzhou/sanity/test-repository/pages/policymaker/download/safe-harbor-clause.vue",
         "chunkName": "pages/policymaker/download/safe-harbor-clause",
-        "_name": "_3b9ade62"
+        "_name": "_0e0694b1"
       },
       {
         "name": "policymaker-download-securitytxt___en",
         "path": "securitytxt",
-        "component": "/Users/matthewzhou/test/policymaker/pages/policymaker/download/securitytxt.vue",
+        "component": "/Users/matthewzhou/sanity/test-repository/pages/policymaker/download/securitytxt.vue",
         "chunkName": "pages/policymaker/download/securitytxt",
-        "_name": "_2387d6ce"
+        "_name": "_39440b5f"
       },
       {
         "name": "policymaker-download-vdp___en",
         "path": "vdp",
-        "component": "/Users/matthewzhou/test/policymaker/pages/policymaker/download/vdp.vue",
+        "component": "/Users/matthewzhou/sanity/test-repository/pages/policymaker/download/vdp.vue",
         "chunkName": "pages/policymaker/download/vdp",
-        "_name": "_521a8820"
+        "_name": "_9b8e449e"
       }
     ],
-    "_name": "_43c931a6"
+    "_name": "_00c5a584"
   },
   {
     "name": "policymaker-introduction___en",
     "path": "/policymaker/introduction",
-    "component": "/Users/matthewzhou/test/policymaker/pages/policymaker/introduction.vue",
+    "component": "/Users/matthewzhou/sanity/test-repository/pages/policymaker/introduction.vue",
     "chunkName": "pages/policymaker/introduction",
-    "_name": "_09ee0f3f"
+    "_name": "_6a0c64d0"
   },
   {
     "name": "policymaker-organization___en",
     "path": "/policymaker/organization",
-    "component": "/Users/matthewzhou/test/policymaker/pages/policymaker/organization.vue",
+    "component": "/Users/matthewzhou/sanity/test-repository/pages/policymaker/organization.vue",
     "chunkName": "pages/policymaker/organization",
-    "_name": "_2d072050"
+    "_name": "_499ac569"
   },
   {
     "name": "policymaker-settings___en",
     "path": "/policymaker/settings",
-    "component": "/Users/matthewzhou/test/policymaker/pages/policymaker/settings.vue",
+    "component": "/Users/matthewzhou/sanity/test-repository/pages/policymaker/settings.vue",
     "chunkName": "pages/policymaker/settings",
-    "_name": "_884bd570"
+    "_name": "_4548494e"
   },
   {
     "name": "index___en",
     "path": "/",
-    "component": "/Users/matthewzhou/test/policymaker/pages/index.vue",
+    "component": "/Users/matthewzhou/sanity/test-repository/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_65dac4fa"
+    "_name": "_f85c81ee"
   }
 ]

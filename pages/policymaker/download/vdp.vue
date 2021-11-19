@@ -3,14 +3,14 @@
 
         <dio-checkbox-panels v-model="isFullVDP" class="mt-4 mb-16">
             <dio-checkbox-panel :value="true">
-                <label>Policy w/ Audit Mechanism</label>
-                <p>Use this version if you're creating a policy with a risk-monitoring audit mechanism.</p>
+                <label>Policy for Low Risk Algorithms</label>
+                <p>Use this version if you're creating a policy with more lenient auditing and monitoring requirements.</p>
                 <small class="dio__pill">Version 2021.1</small>
             </dio-checkbox-panel>
             <dio-checkbox-panel :value="false">
                 <div class="dio__checkbox-label">
-                    <label>Policy w/out Audit Mechanism</label>
-                    <p>Use this version if you're creating a policy without a risk-monitoring audit mechanism.</p>
+                    <label>Policy for High Risk Algorithms</label>
+                    <p>Use this version if you're creating a policy with stricter auditing and monitoring requirements.</p>
                     <small class="dio__pill">Version 2021.1</small>
                 </div>
             </dio-checkbox-panel>

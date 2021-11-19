@@ -19,7 +19,7 @@ export const options = {
   sortRoutes: true,
   strategy: "prefix_except_default",
   lazy: true,
-  langDir: "/Users/matthewzhou/test/policymaker/lang",
+  langDir: "/Users/matthewzhou/sanity/test-repository/lang",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":false,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"i18n_redirected","cookieSecure":false,"fallbackLocale":"","onlyOnNoPrefix":false,"onlyOnRoot":false,"useCookie":true},
   differentDomains: false,

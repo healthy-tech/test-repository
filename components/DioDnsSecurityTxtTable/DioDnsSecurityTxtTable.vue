@@ -1,16 +1,16 @@
 <template>
     <div>
         <dio-field>
-            <p>Enter your domain to customize the DNS records below:</p>
-            <input-text class="w-64" v-model="domain" placeholder="Enter your domain" />
+            <p>Placeholder</p>
+            <input-text class="w-64" v-model="domain" placeholder="Placeholder" />
         </dio-field>
 
         <table class="dio__table table-auto w-full">
         <thead>
             <tr>
-            <th class="text-left">Record name</th>
-            <th class="text-center">Record type</th>
-            <th class="text-left">Value</th>
+            <th class="text-left">Organization name</th>
+            <th class="text-center">Organization type</th>
+            <th class="text-left">Policy Hosting Site</th>
             </tr>
         </thead>
         <tbody>
@@ -27,7 +27,7 @@
         </tbody>
         </table>
 
-        
+
     </div>
 </template>
 
@@ -40,7 +40,7 @@ import { channelURIs } from '~/utils/mdTemplate'
 
 export default Vue.extend({
     components: { DioField, InputText },
-    
+
     props: {
         configuration: {
             type: Object
