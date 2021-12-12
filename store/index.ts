@@ -39,9 +39,7 @@ export class PolicyMaker extends VuexModule {
   ]
 
   downloadSections: NavSteps = [
-    { route: '/policymaker/download/vdp', name: 'Risk Scoring Algorithms' },
-    { route: '/policymaker/download/securitytxt', name: 'Computer Vision Algorithms' },
-    { route: '/policymaker/download/dnssecuritytxt', name: 'Administrative Algorithms' },
+    { route: '/policymaker/download/vdp', name: 'Healthcare AI Tools' },
   ]
 
   // Policy settings
@@ -50,7 +48,7 @@ export class PolicyMaker extends VuexModule {
     organizationName: '',
     organizationDomain: '',
     channels: <Channels>[{ prefix: '', type: '', address: '' }],
-    cvdTimelineDays: 90,
+    cvdTimelineDays: 30,
     hostUrl: {
       prefix: 'https://',
       type: 'url',
@@ -62,10 +60,10 @@ export class PolicyMaker extends VuexModule {
 
   // CVD Timeline Options
   cvdTimelineOptions: DropdownOptions = [
-    { value: 180, label: 'Admin Optimization Algorithms' },
-    { value: 120, label: 'Diagnostic Algorithms' },
-    { value: 90, label: 'Risk Scoring Algorithms' },
-    { value: 0, label: 'Opt-out of Algorithm Type Selection' }
+    { value: 90, label: '90 days ' },
+    { value: 60, label: '60 days' },
+    { value: 30, label: '30 days' },
+    { value: 0, label: 'Opt-out of notice requirements.' }
   ]
 
   vdpTemplateBase: VDPTemplateSet = {

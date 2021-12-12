@@ -5,15 +5,17 @@
         <dio-field-group>
             <dio-field>
                 <label>Algorithm Use Case Type</label>
-                <p>Different algorithm product types can involve different design process approaches
-                    and transparency requirements, and some will require differential clause language. Being able to
-                   define a subset of algorithm type can help tailor the language to your specific use case.</p>
+                <p>AI vendors are able to deploy changes to their deployed algorithms to improve performance,
+                add functionality, or retire outdated features. There should be a clear channel for vendors to
+                communicate anticipated changes to the algorithm before deployment. Use the dropdown menu here to
+                select your organization's preferred notification period ahead of any change deployment.</p>
                 <dio-dropdown
                     v-model="cvdTimeline"
                     :options="cvdTimelineOptions"
                     />
                     <br>
-                <small>If you’re not currently able to do this, you may optionally opt-out of selecting an algorithm type.</small>
+                <small>If you’re not currently sure that your vendor can comply with this policy, you may
+                optionally opt-out of selecting a notification period.</small>
             </dio-field>
 
             <dio-field>

@@ -3,16 +3,9 @@
 
         <dio-checkbox-panels v-model="isFullVDP" class="mt-4 mb-16">
             <dio-checkbox-panel :value="true">
-                <label>Policy for Low Risk Algorithms</label>
-                <p>Use this version if you're creating a policy with more lenient auditing and monitoring requirements.</p>
+                <label>Policy for Healthcare Algorithms</label>
+                <p>Use this version if you're creating a policy to procure a healthcare AI tool.</p>
                 <small class="dio__pill">Version 2021.1</small>
-            </dio-checkbox-panel>
-            <dio-checkbox-panel :value="false">
-                <div class="dio__checkbox-label">
-                    <label>Policy for High Risk Algorithms</label>
-                    <p>Use this version if you're creating a policy with stricter auditing and monitoring requirements.</p>
-                    <small class="dio__pill">Version 2021.1</small>
-                </div>
             </dio-checkbox-panel>
         </dio-checkbox-panels>
 

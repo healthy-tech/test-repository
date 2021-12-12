@@ -2,6 +2,9 @@
   "DioButton": {
     "description": "Auto imported from components/DioButton/DioButton.vue"
   },
+  "DioDnsSecurityTxtTable": {
+    "description": "Auto imported from components/DioDnsSecurityTxtTable/DioDnsSecurityTxtTable.vue"
+  },
   "DioCheckboxPanel": {
     "description": "Auto imported from components/DioCheckboxPanel/DioCheckboxPanel.vue"
   },
@@ -11,17 +14,14 @@
   "DioDropdown": {
     "description": "Auto imported from components/DioDropdown/DioDropdown.vue"
   },
-  "DioDnsSecurityTxtTable": {
-    "description": "Auto imported from components/DioDnsSecurityTxtTable/DioDnsSecurityTxtTable.vue"
+  "DioLink": {
+    "description": "Auto imported from components/DioLink/DioLink.vue"
   },
   "DioField": {
     "description": "Auto imported from components/DioField/DioField.vue"
   },
   "DioFieldGroup": {
     "description": "Auto imported from components/DioField/DioFieldGroup.vue"
-  },
-  "DioLink": {
-    "description": "Auto imported from components/DioLink/DioLink.vue"
   },
   "DioProgressStep": {
     "description": "Auto imported from components/DioProgressStep/ProgressStep.vue"

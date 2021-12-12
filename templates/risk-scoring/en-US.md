@@ -1,64 +1,70 @@
-# Contractual Terms and Conditions
+# Request for Proposal Terms and Provisions
 
----
-## Article 1:   Applicability
-**1.1.**	These terms and conditions will apply if the Contractor provides `{{organization}}` with an Algorithmic System to be used by `{{organization}}` when making or preparing Decisions or in the context of enforcement or fraud investigations.
-**1.2.**	These terms and conditions will also apply if the Contractor provides `{{organization}}` with an Algorithmic System to be used to make or prepare decisions on `{{organization}}` staff. 
-**1.3.**	These terms and conditions will apply regardless of whether Contractor provides the Algorithmic System to `{{organization}}` by way of a product, as part of a service or as part of a development agreement.
-**1.4.**	If the Algorithmic System forms part of one or more software products that are jointly provided to `{{organization}}` by the Contractor, such software products will jointly constitute the Algorithmic System to which these terms and conditions apply, unless agreed otherwise between the Parties. 
+## Provision 1: Scope
 
----
-## Article 2:   Data Quality
-**2.1.**	If and to the extent that the Algorithmic System is developed on the basis of data provided by `{{organization}}` to the Contractor, the Contractor will take the measures that may reasonably be expected of it to ensure that the data used in the development of the Algorithmic System will be analysed, structured and/or edited:
-    - according to a motivated approach, the purpose of which includes, without limitation, the avoidance of socially constructed distortion, inaccuracies, errors, mistakes, and undesired prejudice ("bias") in such data to the extent possible;
-    - in a manner that is in compliance with applicable laws and regulations.
-**2.2.**	If and to the extent that the Algorithmic System is developed on the basis of data not provided by `{{organization}}` to the Contractor, the Contractor will ensure that the data used in the development of the Algorithmic System will be collected, analysed, structured and/or edited:
-    - according to a motivated approach, the purpose of which includes, without limitation, the avoidance of socially constructed distortion, inaccuracies, errors, mistakes, and undesired prejudice ("bias") in such data to the extent possible;
-    - in a manner that is in compliance with applicable laws and regulations.
-**2.3.**	If and to the extent that the Contractor has developed the Algorithmic System prior to conclusion of the Agreement, the Contractor warrants that the measures described in article 2.2 have already been taken. 
+These articles will apply in all cases where the Contractor provides an Algorithmic System for `{{organization}}` to be used in medical or administrative decision-making processes.
 
----
-## Article 3:   Rights to the Data
-**3.1.**	All rights relating to the data to be provided by `{{organization}}` to the Contractor under the Agreement will accrue to `{{organization}}`. The Contractor will not be entitled to use such data for any purpose other than the performance of the Agreement. On demand of `{{organization}}`, the Contractor will destroy such data and/or hand over the data to `{{organization}}`. 
-**3.2.**	All rights relating to the data to be created or collected in the course of performance of the Agreement will accrue to `{{organization}}`. Unless the Parties agree otherwise, the Contractor will not be entitled to use such data for any purpose other than the performance of the Agreement. On demand of `{{organization}}`, the Contractor will destroy such data and/or hand over the data to `{{organization}}`. 
-**3.3.**    All rights relating to Algorithmic Systems to be created by the Contractor for servicing the contract with `{{organization}}` will accrue to `{{organization}}`. Unless the Parties agree otherwise, the Contractor will not be entitled to use such Algorithmic Systems for any purpose other than the performance of the Agreement. On demand of `{{organization}}`, the Contractor will destroy any relevant Algorithmic Systems and/or hand over the system to `{{organization}}`.
-**3.3.**    The data referred to in articles 3.1 and 3.2 should not be sold by re-shared by the Contractor for commercial purposes. This applies even to data provided by `{{organization}}` that has been de-identified.
-**3.3.**	The data referred to in articles 3.1 and 3.2 will be handed over in a common file format to be designated by `{{organization}}`. If, in order to convert the data to the file format desired by `{{organization}}`, the Contractor must perform additional work, `{{organization}}` will pay the Contractor a reasonable fee in that respect. In no event can a dispute about the amount of the fee to be paid by `{{organization}}` to the Contractor give rise to suspension by the Contractor of its obligations under these terms and conditions. 
-**3.4.**	On demand of `{{organization}}`, the Contractor will provide evidence of destruction of the data.
+These oversight conditions will apply to any developed software products, pre-built services, datasets supplied by `{{organization}}`, and secondary outputs produced from the operation of the Algorithmic System used for the purpose of fulfilling this contract.
 
----
-## Article 4:   Quality of the Algorithmic System
-**4.1.**	The Contractor represents that the Algorithmic System has been developed and will perform in a way that is in compliance with the Health Information and Portability and Accountability Act (HIPAA).
-**4.2.**	The Contractor represents that the Algorithmic System will perform accurately and correctly over time with clearly established monitoring strategies and alert thresholds for unacceptable performance.
-**4.3.**	The Contractor represents that the Algorithmic System is suitable for the Intended Use.
+If the Contractor is working with any sub-suppliers or their own contractors, these same terms and conditions would also apply throughout the vendor supply chain.
 
----
-## Article 5:   Transparency of the Algorithmic System
-**5.1.**	`{{organization}}` should at all times be able to explain the operation of the Algorithmic System in plain language (Explainability). The Contractor will be under the obligation to lend its full cooperation in making the Algorithmic System Explainable and to provide `{{organization}}` with all such information as may be required in that respect. `{{organization}}` will be entitled to share the information provided by the Contractor in that context with third parties and to disclose it. 
-**5.2.**	During the term of the Agreement, the demands described in this article will constitute obligations to realize those demands and, unless the Parties agree otherwise, no additional fee will be due by `{{organization}}` to the Contractor in consideration of the performance of such obligations. After expiry of the term of the Agreement, the demands described in this article will constitute an obligation to perform to the best of the Parties’ ability and an additional fee will be due by `{{organization}}` to the Contractor in consideration of the services to be provided by the Contractor in that respect.
-**5.3.**	In all situations where the information provided on the basis of the various paragraphs of this article overlaps, `{{organization}}` will be free to choose the regime that is most favourable to it.
+## Provision 2: Regulatory Compliance
 
----
-## Article 6:   Risk management strategy in the development of the Algorithmic System
-**6.1.**	In the development of the Algorithmic System, the Contractor will pursue a common and up-to-date risk management strategy that is appropriate for the nature of the Algorithmic System. For purposes of application of such risk management strategy, the Contractor will identify the main risks that may occur when `{{organization}}` uses the Algorithmic System and take measures to make the identified risks manageable. When identifying the risks, the Contractor will, where relevant, in any event pay attention to the risk of non-compliance with one or more of the obligations referred to in article 2 and article 4, risks related to discrimination, the possibility for `{{organization}}` to control the Algorithmic System and data protection.
-**6.2.**	The Contractor will implement and document the risk management strategy described in article 6.1 in such a way that the audit referred to in article 8 can verify whether the Contractor has performed the obligation described in article 6.1.
-**6.3.**	If and to the extent that the Contractor has developed the Algorithmic System prior to conclusion of the Agreement, the Contractor warrants that the measures described in article 6.1 and/or article 6.2 have already been taken. The Contractor will produce evidence thereof on demand of `{{organization}}`.
-**6.4.**    Developing processes to monitor the outcomes of Automated Decision Systems to safeguard against unintentional outcomes and to verify compliance with institutional and program legislation, as well as this Directive, on a scheduled basis.
+The Contractor should provide the Algorithmic System in compliance with the privacy and security standards stated in the Health Information and Portability and Accountability Act (HIPAA).
 
----
-## Article 7:   Management of the Algorithmic System
-**7.1.**	If the Contractor offers the Algorithmic System by way or as part of a service or provides management and maintenance services in respect of the Algorithmic System, the Contractor warrants that the Algorithmic System and the related documentation will continue to comply with the conditions set out in article 4 throughout the term of the Agreement. 
-**7.2.**	If the Contractor offers the Algorithmic System by way or as part of a service or provides management and maintenance services in respect of the Algorithmic System, the services to be provided by the Contractor will include continuous monitoring by the Contractor, throughout the term of the Agreement, whether the risks referred to in article 6.1 are still up to date and whether the measures referred to in article 6.1 are effective. If not, the Contractor will take additional measures. 
-**7.3.**	As part of the obligation referred to in article 7.2, the Contractor will provide information if new risks become known or if the measures referred to in article 6.1 prove to be ineffective.
+The Algorithmic System should be able to comply with individual data deletion requests as needed to comply with any "right to be forgotten" laws that are applicable.
 
----
-## Article 8:   Audit or other type of Inspection
-**8.1.**	Before deployment of the Algorithmic System, the Contractor will be under the obligation to lend its cooperation in an audit or other type of inspection to be carried out by or on behalf of `{{organization}}` to assess whether the Contractor complies with the conditions set in the Agreement. Such cooperation will include providing Technical Transparency, providing Procedural Transparency, providing an insight into the risk management strategy implemented, making Contractor staff available for conducting interviews and providing access to the locations of the Contractor.
-**8.2.**	`{{organization}}` will prepare, or cause the preparation of, a report in which the conclusions of the audit will be recorded. In the report, `{{organization}}` will record the extent to which the Contractor complies with the obligations under the Agreement. If `{{organization}}` establishes that the Contractor does not comply with the obligations under this article, the Contractor will be under the obligation to remedy the defects identified by `{{organization}}` within the reasonable term set by `{{organization}}` in the report. If the Contractor fails to remedy the defects identified by `{{organization}}` within the term for remedying such defects set in the report, the Contractor will be in default by operation of law.
-**8.3.**	`{{organization}}` will be entitled to publish the conclusions of the report referred to in article 8.2. In the event of conflict between article 5.2 and article 8.3, article 8.3 will prevail.
-**8.4.**	`{{organization}}` may decide to have all or part of the audit performed by an independent auditor.
-**8.5.**	The costs of the auditor to be engaged by `{{organization}}`, if any, will be payable by `{{organization}}`. `{{organization}}` will pay the Contractor a reasonable fee for any costs to be incurred by the Contractor in the context of the audit for activities other than the provision of Technical Transparency or Procedural Transparency. In no event can a dispute about the amount of such fee give rise to suspension by the Contractor of its obligations under these terms and conditions. No such fee will be due by `{{organization}}` if the audit reveals that the Contractor has failed, or has failed fully, to comply with these conditions in material respects. 
+The Algorithmic System should be built to comply with U.S. anti-discrimination laws governing protected attributes like race, gender, religion, and sexuality. The Contractor should be able to provide evidence of satisfactory compliance with anti-discrimination standards before system deployment and upon request by `{{organization}}`
 
----
-## Article 9:   Costs
-Unless agreed otherwise between the Parties or expressly provided otherwise in these terms and conditions, no additional fee will be due by `{{organization}}` to the Contractor in consideration of the work ensuing from these terms and conditions.
+## Provision 3: Data Ownership
+
+Unless otherwise stated in the procurement contract, all datasets supplied by `{{organization}}`, software products built to fulfill this contract, and secondary outputs produced during the operation of the Algorithmic System are the property of `{{organization}}` and should not be re-used, shared, or joined to third-party datasets by the Contractor for their own commercial use. This applies even in "safe harbor" cases where the data has been anonymized according to HIPAA standards, given evidence that patient information can be re-identified after anonymization.
+
+On request of `{{organization}}`, the Contractor should be able to hand over `{{organization}}` supplied datasets and delete any remaining copies from the Contractor's internal storage (as well as being able to provide evidence that the data deletion took place).
+
+For Algorithmic Systems built outside the scope of these contract terms that are used to fulfill the contract goals, the Contractor will retain rights to their intellectual property and will not need to share source code, model weights, or datasets with `{{organization}}`. These materials may be required to undergo an audit with a third-party organization that may be protected by a Non-Disclosure Agreement between the auditor and the Contractor.
+
+## Provision 4: Data Quality
+The Contractor should be able to provide a set of standards that they will use to define data quality, Algorithmic System performance, and evaluation metrics. These standards should be used throughout the duration of the contract to guarantee a minimum level of quality and performance from the system.
+
+The Contractor should be able to provide a report to `{{organization}}` on any bias mitigation techniques, ethics checklists, or product requirements documents that will be created during the development of the Algorithmic System.
+
+Bids that can demonstrate multi-disciplinary approaches and teams for algorithmic system design, using expertise from engineering, social sciences, legal, will be favored higher.
+
+## Provision 5: Transparency
+`{{organization}}` should be able to provide a public-facing explanation of the Algorithmic System's purpose and operations in plain language. The Contractor should enable the Algorithmic System to be able to accommodate explainability of the entire system as well as for individual predictions.
+This may include providing the highest impact variables influencing a decision. The ability to view this explanation should be co-located with the corresponding prediction.
+
+The Contractor will notify `{{organization}}` {{disclosure_window}} days in advance of new changes being made to a deployed Algorithmic System. This notification should include a change log of new, deprecated, and updated functionalities in the Algorithmic System. For major changes, a report on the testing process for assuring business continuity of the Algorithmic System should be provided by the Contractor.
+
+Bids incorporating frameworks for soliciting user design feedback from healthcare delivery professionals like doctors and nurses, as well as patients, will be favored higher.
+
+Bids that can incorporate an Algorithm Change Protocol (ACP) document (as recommended by the Food & Drug Administration for software as medical devices) will be favored higher. These ACPs should detail the anticipated changes that will be made to the Algorithmic System during the contract period.
+
+## Provision 6: Monitoring & Evaluation
+The Contractor should have a continuous monitoring plan for guaranteeing a satisfactory minimum level of performance for the Algorithmic System. A risk management plan should detail action plans in case of a security breach or unacceptable levels of performance degradation in the Algorithmic System.
+
+The Algorithmic System should involve human-in-the-loop decision-making based on the risk to patients in the contract use case. If the system is involved in medical decision-making on behalf of a patient, a healthcare professional should be involved in evaluating whether individual Algorithmic System recommendations are used or not.
+
+A third-party auditing organization should conduct regularly scheduled assessments on the provisions listed in this document in order to ensure compliance. These audits will be paid for by `{{organization}}` in order to minimize conflicts of interest.
+
+Bids that have technical architecture proposals incorporating fairness metrics monitoring and algorithmic bias prevention measures will be favored higher.
+
+## Provision 7: Audits
+
+Before the Algorithmic System is deployed, an audit should be conducted by `{{organization}}` or a third-party auditor on its behalf. This audit should assess compliance from the Contractor in achieving the provisions stated in this document around data quality, system performance, transparency, explainability, security and privacy, bias prevention, and risk management. The Contractor should cooperate with the audit by agreeing to share materials, optionally under a Non-Disclosure Agreement if mutually agreed to by `{{organization}}` and the Contractor. This sharing of materials might involve providing Technical Transparency and Procedural Transparency as defined by the City of Amsterdam's open source contractual terms. These audits may also involve interviews with key employees of the Contractor.
+
+A report of the audit results should be prepared by the auditor for the `{{organization}}`. This report should be released to the public in advance of the deployment of the system, and subsequent audits should be appended to the same public-facing site. Any issues raised by the report should be the responsibility of the Contractor to remedy within a reasonable timeframe agreed to by `{{organization}}` and the Contractor. Failing to meet these requirements may involve taking the Algorithmic System offline and potential early termination of the contract.
+
+`{{organization}}` will pay the cost of the audit, as well as a reasonable fee to the Contractor for any activities needed to fully comply with the audit, In the event that the Contractor is found to have failed to cooperate with the audit in good faith, `{{organization}}` is not liable to reimburse the Contractor for any activities taken to fulfill the audit.
+
+If the Contractor does not agree to a third-party audit of the provided Algorithmic System under a non-disclosure agreement, they should provide reasonable justification for their refusal.
+
+## Evaluation Criteria
+Category: Percentage
+Organizational Capability and Relevant Experience: 15%
+Proposed Solution: 35%
+Proposed Services and Post-Implementation Support: 15%
+Cost: 20%
+Bias Prevention Strategies: 5%
+Algorithm Change Protocol: 5%
