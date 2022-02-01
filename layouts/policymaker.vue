@@ -1,7 +1,9 @@
 <template>
     <div id="app">
         <header>
-
+            <NuxtLink class="logo" to="/policymaker">
+                <img src="@/assets/images/ContractMaker.png">
+            </NuxtLink>
             <nav>
                 <progress-steps orientation="vertical" :steps="navSteps">
                 </Progress-Steps>

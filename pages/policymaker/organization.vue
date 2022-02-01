@@ -5,7 +5,7 @@
         <dio-field-group>
             <dio-field>
                 <label>{{ $t('policymaker.organization_details.organization_name_label') }} </label>
-                <p>This is the organization authorizing the policy, who is responsible for the assets that are in scope.</p>
+                <p>This is the organization authorizing the policy and who is responsible for the assets that are in scope.</p>
                 <input-text
                     :value="configuration.organizationName"
                     @input="updateOrganisationName"

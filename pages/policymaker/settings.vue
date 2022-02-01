@@ -4,11 +4,11 @@
 
         <dio-field-group>
             <dio-field>
-                <label>Algorithm Use Case Type</label>
-                <p>AI vendors are able to deploy changes to their deployed algorithms to improve performance,
-                add functionality, or retire outdated features. There should be a clear channel for vendors to
-                communicate anticipated changes to the algorithm before deployment. Use the dropdown menu here to
-                select your organization's preferred notification period ahead of any change deployment.</p>
+                <label>Algorithm Change Disclosure Setting</label>
+                <p>AI vendors are able to deploy changes to their algorithms to improve performance, add functionality,
+                 or retire outdated features. There should be a clear channel for vendors to communicate anticipated
+                 changes to users of the algorithm before deployment. Use the dropdown menu here to select your
+                 organization's preferred notification period ahead of any change deployment.</p>
                 <dio-dropdown
                     v-model="cvdTimeline"
                     :options="cvdTimelineOptions"
